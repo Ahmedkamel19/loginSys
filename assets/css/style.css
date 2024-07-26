@@ -1,0 +1,39 @@
+
+main{
+    background-image: url("../images/wallpaperflare.com_wallpaper\ \(8\).jpg");    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.fa-user,.fa-lock,.fa-envelope{
+    position: absolute;
+    top: 35%;
+    right: 5%;
+}
+input::placeholder{
+    padding: 3%;
+}
+button{
+    background-color: #08263c !important;
+}
+a{
+    color: #08263c;
+}
+
+.w-30{
+    width: 30%;
+}
+.w-35{
+    width: 35%;
+}
+.w-40{
+    width: 40%;
+}
+
+.my-f{
+    margin: 3.1% 0 3.1% 0;
+}
+
+.px-f{
+    padding: 5px 70px !important;
+}
